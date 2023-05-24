@@ -1,0 +1,15 @@
+.location-box .location{
+	font-size: 1.5em;
+}
+
+.location-box .temperature{
+	font-size: 2.3em;
+}
+
+.location-box {
+	text-align: center;
+}
+
+.weather-sc-error { 
+	color: red;
+}
